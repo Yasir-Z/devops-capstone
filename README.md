@@ -29,11 +29,11 @@ IaC, and Observability.
 
 <img width="735" height="481" alt="image" src="https://github.com/user-attachments/assets/1be42a27-fc69-4de9-90fc-524747d5ea4e" />
 
-[Add GitHub Actions success screenshot here]
+### GitHub Actions Workflow
 
 <img width="947" height="425" alt="image" src="https://github.com/user-attachments/assets/43f6f94e-157c-4509-8f99-73276991d0e0" />
 
-[Add running app screenshot here]
+### Running app screenshot 
 
 <img width="959" height="250" alt="image" src="https://github.com/user-attachments/assets/b703f6d7-dae1-497a-8ccf-3bf7b0f5c9fb" />
 
